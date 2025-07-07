@@ -14,3 +14,12 @@ A simple Python project that scrapes the latest news headlines from [Hacker News
 ## 🚀 How to Run
 1. Clone the repo or download the files
 2. Install dependencies:
+
+3. Run `hacker_news_scraper.ipynb` or `hacker_news_scraper.py`
+
+## ✅ Sample Output
+| Title | Link |
+|-------|------|
+| OpenAI launches new model | https://... |
+
+
